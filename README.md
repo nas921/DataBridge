@@ -11,5 +11,5 @@ Maven 3.8.1 or +
 Java 1.8 or +
 ```
 
-Clone master branch
+Clone master branch.
 Import the project in your favorite IDE
