@@ -13,4 +13,4 @@ Java 1.8 or +
 ```
 
 Clone master branch.
-Import the project into your favorite IDE
+Import the project into your favorite IDE as MVN project 
