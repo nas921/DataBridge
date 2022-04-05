@@ -12,4 +12,4 @@ Java 1.8 or +
 ```
 
 Clone master branch.
-Import the project in your favorite IDE
+Import the project into your favorite IDE
